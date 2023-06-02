@@ -99,7 +99,7 @@ function ResponsiveAppBar() {
                     <Typography textAlign="center">{page}</Typography>
                   </Link>
                   <a
-                    href="http://atharvamulgund.web.app"
+                    href="https://github.com/atharvamulgund/CryptoTracker"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -108,7 +108,7 @@ function ResponsiveAppBar() {
                       color="secondary"
                       sx={{ display: { lg: "flex", sm: "flex", xs: "none" } }}
                     >
-                      say Hello
+                      Get Code
                     </Button>
                   </a>
                 </MenuItem>

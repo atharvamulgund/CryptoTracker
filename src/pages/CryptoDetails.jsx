@@ -214,6 +214,7 @@ const CryptoDetails = () => {
             alignItems: "flex-start",
             flexDirection: "column",
             gap: "1rem",
+            marginTop: "2rem",
           }}
         >
           <Typography variant="h4" color="primary" sx={{ fontWeight: "700" }}>

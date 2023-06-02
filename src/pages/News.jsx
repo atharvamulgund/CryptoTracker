@@ -140,6 +140,7 @@ const News = () => {
                     justifyContent: "space-between",
                     alignItems: "center",
                     width: "100%",
+                    gap: "1rem",
                   }}
                 >
                   <a href={item?.url} target="_blank" rel="noopener noreferrer">
