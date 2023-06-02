@@ -10,8 +10,9 @@ CryptoTracker - Explore the world of Cryptocurrency
 
 
 
-- An application which helps in tracking the trends in the cryptoverse by providing real time data.
-- Along with get you can stay updated to the latest changes occuring in the cryptoverse by able to reading the latest news.
+- An application that helps in tracking the trends in the crypto-verse by providing real-time data.
+- Along with getting you can stay updated on the latest changes occurring in the crypto-verse by being able to read the latest news.
+
 
 
 
